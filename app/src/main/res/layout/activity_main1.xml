@@ -80,7 +80,7 @@
                 android:orientation="vertical">
 
                 <ImageView
-                    android:id="@+id/img_weather_condition"
+                    android:id="@+id/weather0"
                     android:layout_width="48dp"
                     android:layout_height="48dp"
                     android:layout_gravity="center"
